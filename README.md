@@ -1,7 +1,7 @@
 # OLD_ID_CLONER
 
 # Author 
-![Screenshot](https://github.com/Saikohackerteamrm/OLD_ID_CLONER/blob/main/20250805_153057.jpg)
+![Screenshot](https://github.com/Saikohackerteamrm/OLD_ID_CLONER/blob/main/20250812_164822.jpg)
 
           # Installation
 ____________________
